@@ -18,3 +18,10 @@ One way to test the app would be to run `npm install --global` from the package 
 - [Build a CLI with NodeJS](https://dev.to/rushankhan1/build-a-cli-with-node-js-4jbi)
 - [npm link](https://docs.npmjs.com/cli/v7/commands/npm-link)
 - [yargs](https://yargs.js.org/)
+
+
+## Glossary
+
+|Term| Definition|
+|---|---|
+| argv | We see this often in the `yargs` api and in node's `process.argv`.  This is referring to the 'argument vector' that is passed via command line.  Reference: [A Short Explaination of ARGV](https://flatironschool.com/blog/a-short-explanation-of-argv). |
