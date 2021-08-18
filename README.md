@@ -5,3 +5,4 @@ Template for a node CLI app
 
 1. Run `npm init -y`
 2. Add `./bin/cli.js`
+3. Update `package.json`
