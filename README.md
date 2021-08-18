@@ -6,6 +6,7 @@ Template for a node CLI app
 1. Run `npm init -y`
 2. Add `./bin/cli.js`
 3. Update `package.json`
+4. Run `yarn add yargs`
 
 ## Testing the application
 
@@ -16,3 +17,4 @@ One way to test the app would be to run `npm install --global` from the package 
 
 - [Build a CLI with NodeJS](https://dev.to/rushankhan1/build-a-cli-with-node-js-4jbi)
 - [npm link](https://docs.npmjs.com/cli/v7/commands/npm-link)
+- [yargs](https://yargs.js.org/)
